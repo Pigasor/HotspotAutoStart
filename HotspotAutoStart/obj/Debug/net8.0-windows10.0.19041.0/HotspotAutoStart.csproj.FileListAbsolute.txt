@@ -1,0 +1,17 @@
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\bin\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.exe
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\bin\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.deps.json
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\bin\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.runtimeconfig.json
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\bin\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.dll
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\bin\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.pdb
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\bin\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\bin\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.AssemblyInfoInputs.cache
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.AssemblyInfo.cs
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.csproj.CoreCompileInputs.cache
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\HotspotA.87E9E697.Up2Date
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.dll
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\refint\HotspotAutoStart.dll
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.pdb
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\HotspotAutoStart.genruntimeconfig.cache
+C:\Users\Pigasor\source\repos\HotspotAutoStart\HotspotAutoStart\obj\Debug\net8.0-windows10.0.19041.0\ref\HotspotAutoStart.dll
